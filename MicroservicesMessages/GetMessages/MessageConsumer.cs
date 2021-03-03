@@ -3,7 +3,7 @@ using MassTransit;
 using System;
 using Messages;
 
-namespace GetMessage
+namespace GetMessages
 {
     public class MessageConsumer : IConsumer<FilterMessage>
     {
