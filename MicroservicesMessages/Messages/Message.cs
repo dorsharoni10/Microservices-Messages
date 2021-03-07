@@ -13,7 +13,7 @@ namespace Message
             this.Job = i_Job;
         }
 
-        public string Nam { get; set; }
+        public string Name { get; set; }
 
         public DateTime Date { get; set; }
 
