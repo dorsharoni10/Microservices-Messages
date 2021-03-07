@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Messages
+namespace Message
 {
     public class Message
     {
