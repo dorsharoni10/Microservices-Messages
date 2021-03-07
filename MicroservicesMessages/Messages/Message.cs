@@ -2,7 +2,7 @@
 
 namespace Message
 {
-    public class Message
+    public class Messages
     {
 
         public Message(string i_Name, DateTime i_Date, int i_Age, string i_Job)
