@@ -1,4 +1,4 @@
-In this small project I forward messages by Microservices technique
+In this small project I forward messages by Microservices technique.
 
 This project was written in .Net Core, Linux environment.
 
