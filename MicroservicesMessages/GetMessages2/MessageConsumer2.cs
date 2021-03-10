@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using MassTransit;
 using Messages;
 
-namespace GetMessages
+namespace GetMessages2
 {
     public class MessageConsumer2 : IConsumer<FilterMessage>
     {
