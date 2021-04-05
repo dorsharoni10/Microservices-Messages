@@ -18,7 +18,7 @@ namespace GetMessages
 
                 sbc.ReceiveEndpoint("queue_1", ep =>
                 {
-                    ep.Consumer<MessageConsumer>()
+                    ep.Consumer<MessageConsumer>();
                 });
             });
             bus.Start();
