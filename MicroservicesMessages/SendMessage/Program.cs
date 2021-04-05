@@ -18,7 +18,7 @@ namespace SendMessage
                     h.Password("test");
                 });
             });
-            bus.Start()
+            bus.Start();
             DateTime date = DateTime.Now;
 
             var message = new Message("Yoav", new DateTime(date.Year, date.Month, date.Day), 23, "Developer");
